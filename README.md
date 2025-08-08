@@ -4,14 +4,14 @@
 
 ---
 
-### **2.1 – Deploy and Verify Jenkins**
+### ** 1 – Deploy and Verify Jenkins**
 
 * Deploy Jenkins **locally** (on your machine or inside Docker).
 * Verify that it is running correctly by accessing the Jenkins dashboard.
 
 ---
 
-### **2.2 – Create Freestyle Projects**
+### ** 2 – Create Freestyle Projects**
 
 Set up three separate **Freestyle Project** jobs in Jenkins to perform the following tasks:
 
@@ -32,7 +32,7 @@ Set up three separate **Freestyle Project** jobs in Jenkins to perform the follo
 
 ---
 
-### **2.3 – Create Pipeline Projects**
+### ** 3 – Create Pipeline Projects**
 
 * Using **pipeline-style jobs**, automate the same tasks as above (plus any from Task 1–4 in Step 1).
 * Each task should have its **own dedicated pipeline**.
